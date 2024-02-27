@@ -1,0 +1,1878 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(muldf3.o)
+                              ./Core/Src/ModbusRTU_Master.o (__muldf3)
+c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsidf.o)
+                              ./Core/Src/ModbusRTU_Master.o (__floatsidf)
+c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsidf.o)
+                              ./Core/Src/ModbusRTU_Master.o (__floatunsidf)
+c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+                              ./Core/Src/ModbusRTU_Master.o (__floatunsisf)
+c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(truncdfsf2.o)
+                              ./Core/Src/ModbusRTU_Master.o (__truncdfsf2)
+c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+                              c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(muldf3.o) (__clzsi2)
+c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+                              c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_adc.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_adc.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_DeInit
+                0x0000000000000000       0x70 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_Init
+                0x0000000000000000      0x100 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_StructInit
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_Cmd  0x0000000000000000       0x3e ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_DMACmd
+                0x0000000000000000       0x3e ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_ITConfig
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_ResetCalibration
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_GetResetCalibrationStatus
+                0x0000000000000000       0x30 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_StartCalibration
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_GetCalibrationStatus
+                0x0000000000000000       0x30 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_SoftwareStartConvCmd
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x0000000000000000       0x34 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x0000000000000000       0x5c ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_DiscModeCmd
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_RegularChannelConfig
+                0x0000000000000000      0x248 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_GetConversionValue
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x0000000000000000       0x18 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x0000000000000000       0x3e ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x0000000000000000       0x34 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x0000000000000000      0x19c ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x0000000000000000       0x5e ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x0000000000000000       0x34 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_GetFlagStatus
+                0x0000000000000000       0x3a ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_ClearFlag
+                0x0000000000000000       0x26 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_GetITStatus
+                0x0000000000000000       0x6a ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x0000000000000000       0x38 ./Drivers/src/ch32v20x_adc.o
+ .text.TempSensor_Volt_To_Temper
+                0x0000000000000000       0x74 ./Drivers/src/ch32v20x_adc.o
+ .text.ADC_BufferCmd
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_adc.o
+ .text.Get_CalibrationValue
+                0x0000000000000000      0x3aa ./Drivers/src/ch32v20x_adc.o
+ .debug_info    0x0000000000000000      0xd66 ./Drivers/src/ch32v20x_adc.o
+ .debug_abbrev  0x0000000000000000      0x1ae ./Drivers/src/ch32v20x_adc.o
+ .debug_aranges
+                0x0000000000000000      0x150 ./Drivers/src/ch32v20x_adc.o
+ .debug_ranges  0x0000000000000000      0x140 ./Drivers/src/ch32v20x_adc.o
+ .debug_line    0x0000000000000000     0x1328 ./Drivers/src/ch32v20x_adc.o
+ .debug_str     0x0000000000000000      0x7f2 ./Drivers/src/ch32v20x_adc.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_adc.o
+ .debug_frame   0x0000000000000000      0x504 ./Drivers/src/ch32v20x_adc.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_bkp.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_bkp.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_DeInit
+                0x0000000000000000       0x26 ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x0000000000000000       0x5e ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_TamperPinCmd
+                0x0000000000000000       0x5c ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_ITConfig
+                0x0000000000000000       0x5c ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x0000000000000000       0x54 ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x0000000000000000       0x3c ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_GetFlagStatus
+                0x0000000000000000       0x28 ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_ClearFlag
+                0x0000000000000000       0x30 ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_GetITStatus
+                0x0000000000000000       0x28 ./Drivers/src/ch32v20x_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x0000000000000000       0x30 ./Drivers/src/ch32v20x_bkp.o
+ .debug_info    0x0000000000000000      0x7ad ./Drivers/src/ch32v20x_bkp.o
+ .debug_abbrev  0x0000000000000000      0x174 ./Drivers/src/ch32v20x_bkp.o
+ .debug_aranges
+                0x0000000000000000       0x78 ./Drivers/src/ch32v20x_bkp.o
+ .debug_ranges  0x0000000000000000       0x68 ./Drivers/src/ch32v20x_bkp.o
+ .debug_line    0x0000000000000000      0x402 ./Drivers/src/ch32v20x_bkp.o
+ .debug_str     0x0000000000000000      0x684 ./Drivers/src/ch32v20x_bkp.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_bkp.o
+ .debug_frame   0x0000000000000000      0x194 ./Drivers/src/ch32v20x_bkp.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_can.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_can.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_DeInit
+                0x0000000000000000       0x60 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_Init
+                0x0000000000000000      0x224 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_FilterInit
+                0x0000000000000000      0x2ae ./Drivers/src/ch32v20x_can.o
+ .text.CAN_StructInit
+                0x0000000000000000       0x6a ./Drivers/src/ch32v20x_can.o
+ .text.CAN_SlaveStartBank
+                0x0000000000000000       0x8c ./Drivers/src/ch32v20x_can.o
+ .text.CAN_DBGFreeze
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_TTComModeCmd
+                0x0000000000000000       0xb6 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_Transmit
+                0x0000000000000000      0x20a ./Drivers/src/ch32v20x_can.o
+ .text.CAN_TransmitStatus
+                0x0000000000000000      0x11e ./Drivers/src/ch32v20x_can.o
+ .text.CAN_CancelTransmit
+                0x0000000000000000       0x64 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_Receive
+                0x0000000000000000      0x1e4 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_FIFORelease
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_MessagePending
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_OperatingModeRequest
+                0x0000000000000000      0x12e ./Drivers/src/ch32v20x_can.o
+ .text.CAN_Sleep
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_WakeUp
+                0x0000000000000000       0x6a ./Drivers/src/ch32v20x_can.o
+ .text.CAN_GetLastErrorCode
+                0x0000000000000000       0x2c ./Drivers/src/ch32v20x_can.o
+ .text.CAN_GetReceiveErrorCounter
+                0x0000000000000000       0x26 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_GetLSBTransmitErrorCounter
+                0x0000000000000000       0x26 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_ITConfig
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_can.o
+ .text.CAN_GetFlagStatus
+                0x0000000000000000      0x100 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_ClearFlag
+                0x0000000000000000       0x96 ./Drivers/src/ch32v20x_can.o
+ .text.CAN_GetITStatus
+                0x0000000000000000      0x25a ./Drivers/src/ch32v20x_can.o
+ .text.CAN_ClearITPendingBit
+                0x0000000000000000      0x152 ./Drivers/src/ch32v20x_can.o
+ .text.CheckITStatus
+                0x0000000000000000       0x36 ./Drivers/src/ch32v20x_can.o
+ .debug_info    0x0000000000000000      0xc39 ./Drivers/src/ch32v20x_can.o
+ .debug_abbrev  0x0000000000000000      0x248 ./Drivers/src/ch32v20x_can.o
+ .debug_aranges
+                0x0000000000000000       0xe0 ./Drivers/src/ch32v20x_can.o
+ .debug_ranges  0x0000000000000000       0xd0 ./Drivers/src/ch32v20x_can.o
+ .debug_line    0x0000000000000000     0x1568 ./Drivers/src/ch32v20x_can.o
+ .debug_str     0x0000000000000000      0x796 ./Drivers/src/ch32v20x_can.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_can.o
+ .debug_frame   0x0000000000000000      0x358 ./Drivers/src/ch32v20x_can.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_crc.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_crc.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_crc.o
+ .text.CRC_ResetDR
+                0x0000000000000000       0x16 ./Drivers/src/ch32v20x_crc.o
+ .text.CRC_CalcCRC
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_crc.o
+ .text.CRC_GetCRC
+                0x0000000000000000       0x14 ./Drivers/src/ch32v20x_crc.o
+ .text.CRC_SetIDRegister
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_crc.o
+ .text.CRC_GetIDRegister
+                0x0000000000000000       0x18 ./Drivers/src/ch32v20x_crc.o
+ .debug_info    0x0000000000000000      0x1f8 ./Drivers/src/ch32v20x_crc.o
+ .debug_abbrev  0x0000000000000000      0x10a ./Drivers/src/ch32v20x_crc.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_crc.o
+ .debug_ranges  0x0000000000000000       0x38 ./Drivers/src/ch32v20x_crc.o
+ .debug_line    0x0000000000000000      0x27f ./Drivers/src/ch32v20x_crc.o
+ .debug_str     0x0000000000000000      0x26d ./Drivers/src/ch32v20x_crc.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_crc.o
+ .debug_frame   0x0000000000000000       0xd0 ./Drivers/src/ch32v20x_crc.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_dbgmcu.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_dbgmcu.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x0000000000000000       0x1a ./Drivers/src/ch32v20x_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_dbgmcu.o
+ .text.__get_DEBUG_CR
+                0x0000000000000000       0x1a ./Drivers/src/ch32v20x_dbgmcu.o
+ .text.__set_DEBUG_CR
+                0x0000000000000000       0x1a ./Drivers/src/ch32v20x_dbgmcu.o
+ .text.DBGMCU_Config
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_dbgmcu.o
+ .text.DBGMCU_GetCHIPID
+                0x0000000000000000       0x18 ./Drivers/src/ch32v20x_dbgmcu.o
+ .debug_info    0x0000000000000000      0x181 ./Drivers/src/ch32v20x_dbgmcu.o
+ .debug_abbrev  0x0000000000000000       0xfa ./Drivers/src/ch32v20x_dbgmcu.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_dbgmcu.o
+ .debug_ranges  0x0000000000000000       0x38 ./Drivers/src/ch32v20x_dbgmcu.o
+ .debug_line    0x0000000000000000      0x24e ./Drivers/src/ch32v20x_dbgmcu.o
+ .debug_str     0x0000000000000000      0x238 ./Drivers/src/ch32v20x_dbgmcu.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_dbgmcu.o
+ .debug_frame   0x0000000000000000       0xd4 ./Drivers/src/ch32v20x_dbgmcu.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_dma.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_dma.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_DeInit
+                0x0000000000000000      0x158 ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_Init
+                0x0000000000000000       0xa8 ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_StructInit
+                0x0000000000000000       0x6a ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_Cmd  0x0000000000000000       0x40 ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_ITConfig
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_SetCurrDataCounter
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_GetFlagStatus
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_ClearFlag
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_GetITStatus
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_dma.o
+ .debug_info    0x0000000000000000      0x47c ./Drivers/src/ch32v20x_dma.o
+ .debug_abbrev  0x0000000000000000      0x18f ./Drivers/src/ch32v20x_dma.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./Drivers/src/ch32v20x_dma.o
+ .debug_ranges  0x0000000000000000       0x60 ./Drivers/src/ch32v20x_dma.o
+ .debug_line    0x0000000000000000      0x58c ./Drivers/src/ch32v20x_dma.o
+ .debug_str     0x0000000000000000      0x3e5 ./Drivers/src/ch32v20x_dma.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_dma.o
+ .debug_frame   0x0000000000000000      0x174 ./Drivers/src/ch32v20x_dma.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_exti.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_exti.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_exti.o
+ .text.EXTI_DeInit
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_exti.o
+ .text.EXTI_Init
+                0x0000000000000000      0x170 ./Drivers/src/ch32v20x_exti.o
+ .text.EXTI_StructInit
+                0x0000000000000000       0x32 ./Drivers/src/ch32v20x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x0000000000000000       0x2c ./Drivers/src/ch32v20x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x0000000000000000       0x38 ./Drivers/src/ch32v20x_exti.o
+ .text.EXTI_ClearFlag
+                0x0000000000000000       0x20 ./Drivers/src/ch32v20x_exti.o
+ .text.EXTI_GetITStatus
+                0x0000000000000000       0x56 ./Drivers/src/ch32v20x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x0000000000000000       0x20 ./Drivers/src/ch32v20x_exti.o
+ .debug_info    0x0000000000000000      0x353 ./Drivers/src/ch32v20x_exti.o
+ .debug_abbrev  0x0000000000000000      0x144 ./Drivers/src/ch32v20x_exti.o
+ .debug_aranges
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_exti.o
+ .debug_ranges  0x0000000000000000       0x48 ./Drivers/src/ch32v20x_exti.o
+ .debug_line    0x0000000000000000      0x4c2 ./Drivers/src/ch32v20x_exti.o
+ .debug_str     0x0000000000000000      0x37f ./Drivers/src/ch32v20x_exti.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_exti.o
+ .debug_frame   0x0000000000000000      0x114 ./Drivers/src/ch32v20x_exti.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_flash.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_flash.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_Unlock
+                0x0000000000000000       0x2a ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_UnlockBank1
+                0x0000000000000000       0x2a ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_Lock
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_LockBank1
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_ErasePage
+                0x0000000000000000       0x82 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_EraseAllPages
+                0x0000000000000000       0x74 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_EraseAllBank1Pages
+                0x0000000000000000       0x74 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x0000000000000000      0x188 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_ProgramWord
+                0x0000000000000000       0xbc ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x0000000000000000       0x74 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x0000000000000000      0x1ba ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x0000000000000000      0x1ec ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x0000000000000000      0x186 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x0000000000000000      0x1a2 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x0000000000000000       0x16 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x0000000000000000       0x14 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x0000000000000000       0x2c ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_ITConfig
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x0000000000000000       0x56 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_ClearFlag
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_GetStatus
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_GetBank1Status
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x60 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_WaitForLastBank1Operation
+                0x0000000000000000       0x60 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_Unlock_Fast
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_Lock_Fast
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_ErasePage_Fast
+                0x0000000000000000       0x68 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_EraseBlock_32K_Fast
+                0x0000000000000000       0x6a ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_EraseBlock_64K_Fast
+                0x0000000000000000       0x6a ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_ProgramPage_Fast
+                0x0000000000000000       0xc0 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_Access_Clock_Cfg
+                0x0000000000000000       0x38 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_Enhance_Mode
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_flash.o
+ .text.FLASH_GetMACAddress
+                0x0000000000000000       0x9c ./Drivers/src/ch32v20x_flash.o
+ .debug_info    0x0000000000000000      0x9b1 ./Drivers/src/ch32v20x_flash.o
+ .debug_abbrev  0x0000000000000000      0x1ec ./Drivers/src/ch32v20x_flash.o
+ .debug_aranges
+                0x0000000000000000      0x120 ./Drivers/src/ch32v20x_flash.o
+ .debug_ranges  0x0000000000000000      0x110 ./Drivers/src/ch32v20x_flash.o
+ .debug_line    0x0000000000000000     0x1511 ./Drivers/src/ch32v20x_flash.o
+ .debug_str     0x0000000000000000      0x687 ./Drivers/src/ch32v20x_flash.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_flash.o
+ .debug_frame   0x0000000000000000      0x474 ./Drivers/src/ch32v20x_flash.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_gpio.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_gpio.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_gpio.o
+ .sbss.MCU_Version
+                0x0000000000000000        0x1 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_DeInit
+                0x0000000000000000       0xea ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x0000000000000000       0x2a ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_Init
+                0x0000000000000000      0x268 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_StructInit
+                0x0000000000000000       0x2a ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000       0x5a ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_ReadInputData
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000       0x5a ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_SetBits
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_ResetBits
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_WriteBit
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_Write
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x7e ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x0000000000000000       0x62 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x0000000000000000       0x3a ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x0000000000000000      0x1fe ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x0000000000000000       0xa2 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_gpio.o
+ .text.GPIO_IPD_Unused
+                0x0000000000000000      0x754 ./Drivers/src/ch32v20x_gpio.o
+ .debug_info    0x0000000000000000      0x781 ./Drivers/src/ch32v20x_gpio.o
+ .debug_abbrev  0x0000000000000000      0x214 ./Drivers/src/ch32v20x_gpio.o
+ .debug_aranges
+                0x0000000000000000       0xb0 ./Drivers/src/ch32v20x_gpio.o
+ .debug_ranges  0x0000000000000000       0xa0 ./Drivers/src/ch32v20x_gpio.o
+ .debug_line    0x0000000000000000      0xffe ./Drivers/src/ch32v20x_gpio.o
+ .debug_str     0x0000000000000000      0x580 ./Drivers/src/ch32v20x_gpio.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_gpio.o
+ .debug_frame   0x0000000000000000      0x288 ./Drivers/src/ch32v20x_gpio.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_i2c.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_i2c.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_DeInit
+                0x0000000000000000       0x60 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_Init
+                0x0000000000000000      0x220 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_StructInit
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_Cmd  0x0000000000000000       0x50 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_DMACmd
+                0x0000000000000000       0x5e ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_GenerateSTART
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x0000000000000000       0x5c ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_ITConfig
+                0x0000000000000000       0x68 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_SendData
+                0x0000000000000000       0x28 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_ReceiveData
+                0x0000000000000000       0x20 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_ReadRegister
+                0x0000000000000000       0x3c ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x0000000000000000       0x64 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x0000000000000000       0x5e ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_TransmitPEC
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x0000000000000000       0x64 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_CalculatePEC
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_GetPEC
+                0x0000000000000000       0x26 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_ARPCmd
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x0000000000000000       0x5e ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_CheckEvent
+                0x0000000000000000       0x84 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_GetLastEvent
+                0x0000000000000000       0x5e ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x0000000000000000       0x88 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_ClearFlag
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_GetITStatus
+                0x0000000000000000       0x72 ./Drivers/src/ch32v20x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_i2c.o
+ .debug_info    0x0000000000000000      0xb78 ./Drivers/src/ch32v20x_i2c.o
+ .debug_abbrev  0x0000000000000000      0x1af ./Drivers/src/ch32v20x_i2c.o
+ .debug_aranges
+                0x0000000000000000      0x120 ./Drivers/src/ch32v20x_i2c.o
+ .debug_ranges  0x0000000000000000      0x110 ./Drivers/src/ch32v20x_i2c.o
+ .debug_line    0x0000000000000000      0xbf5 ./Drivers/src/ch32v20x_i2c.o
+ .debug_str     0x0000000000000000      0x6a9 ./Drivers/src/ch32v20x_i2c.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_i2c.o
+ .debug_frame   0x0000000000000000      0x43c ./Drivers/src/ch32v20x_i2c.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_iwdg.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_iwdg.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_iwdg.o
+ .text.IWDG_SetReload
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x0000000000000000       0x1a ./Drivers/src/ch32v20x_iwdg.o
+ .text.IWDG_Enable
+                0x0000000000000000       0x1a ./Drivers/src/ch32v20x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x0000000000000000       0x36 ./Drivers/src/ch32v20x_iwdg.o
+ .debug_info    0x0000000000000000      0x1fb ./Drivers/src/ch32v20x_iwdg.o
+ .debug_abbrev  0x0000000000000000      0x124 ./Drivers/src/ch32v20x_iwdg.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_iwdg.o
+ .debug_ranges  0x0000000000000000       0x38 ./Drivers/src/ch32v20x_iwdg.o
+ .debug_line    0x0000000000000000      0x269 ./Drivers/src/ch32v20x_iwdg.o
+ .debug_str     0x0000000000000000      0x291 ./Drivers/src/ch32v20x_iwdg.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_iwdg.o
+ .debug_frame   0x0000000000000000       0xd0 ./Drivers/src/ch32v20x_iwdg.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_misc.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_misc.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_misc.o
+ .sbss.NVIC_Priority_Group
+                0x0000000000000000        0x4 ./Drivers/src/ch32v20x_misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_misc.o
+ .text.NVIC_Init
+                0x0000000000000000      0x2e4 ./Drivers/src/ch32v20x_misc.o
+ .debug_info    0x0000000000000000      0x6c9 ./Drivers/src/ch32v20x_misc.o
+ .debug_abbrev  0x0000000000000000      0x1c0 ./Drivers/src/ch32v20x_misc.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Drivers/src/ch32v20x_misc.o
+ .debug_ranges  0x0000000000000000       0x18 ./Drivers/src/ch32v20x_misc.o
+ .debug_line    0x0000000000000000      0x4cd ./Drivers/src/ch32v20x_misc.o
+ .debug_str     0x0000000000000000      0x677 ./Drivers/src/ch32v20x_misc.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_misc.o
+ .debug_frame   0x0000000000000000       0x54 ./Drivers/src/ch32v20x_misc.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_opa.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_opa.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_opa.o
+ .text.OPA_DeInit
+                0x0000000000000000       0x1a ./Drivers/src/ch32v20x_opa.o
+ .text.OPA_Init
+                0x0000000000000000       0x82 ./Drivers/src/ch32v20x_opa.o
+ .text.OPA_StructInit
+                0x0000000000000000       0x32 ./Drivers/src/ch32v20x_opa.o
+ .text.OPA_Cmd  0x0000000000000000       0x6e ./Drivers/src/ch32v20x_opa.o
+ .debug_info    0x0000000000000000      0x26f ./Drivers/src/ch32v20x_opa.o
+ .debug_abbrev  0x0000000000000000      0x10c ./Drivers/src/ch32v20x_opa.o
+ .debug_aranges
+                0x0000000000000000       0x38 ./Drivers/src/ch32v20x_opa.o
+ .debug_ranges  0x0000000000000000       0x28 ./Drivers/src/ch32v20x_opa.o
+ .debug_line    0x0000000000000000      0x2f2 ./Drivers/src/ch32v20x_opa.o
+ .debug_str     0x0000000000000000      0x2ad ./Drivers/src/ch32v20x_opa.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_opa.o
+ .debug_frame   0x0000000000000000       0x90 ./Drivers/src/ch32v20x_opa.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_pwr.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_pwr.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_DeInit
+                0x0000000000000000       0x2e ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x0000000000000000       0x3a ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_PVDCmd
+                0x0000000000000000       0x38 ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x0000000000000000       0x3a ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x0000000000000000      0x13e ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x0000000000000000       0x6a ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x0000000000000000       0x34 ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_ClearFlag
+                0x0000000000000000       0x28 ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_EnterSTANDBYMode_RAM
+                0x0000000000000000       0x86 ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_EnterSTANDBYMode_RAM_LV
+                0x0000000000000000       0x94 ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_EnterSTANDBYMode_RAM_VBAT_EN
+                0x0000000000000000       0x88 ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_EnterSTANDBYMode_RAM_LV_VBAT_EN
+                0x0000000000000000       0x96 ./Drivers/src/ch32v20x_pwr.o
+ .text.PWR_EnterSTOPMode_RAM_LV
+                0x0000000000000000      0x14c ./Drivers/src/ch32v20x_pwr.o
+ .debug_info    0x0000000000000000      0x719 ./Drivers/src/ch32v20x_pwr.o
+ .debug_abbrev  0x0000000000000000      0x259 ./Drivers/src/ch32v20x_pwr.o
+ .debug_aranges
+                0x0000000000000000       0x88 ./Drivers/src/ch32v20x_pwr.o
+ .debug_ranges  0x0000000000000000       0x78 ./Drivers/src/ch32v20x_pwr.o
+ .debug_line    0x0000000000000000      0x6d1 ./Drivers/src/ch32v20x_pwr.o
+ .debug_str     0x0000000000000000      0x432 ./Drivers/src/ch32v20x_pwr.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_pwr.o
+ .debug_frame   0x0000000000000000      0x1dc ./Drivers/src/ch32v20x_pwr.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_rcc.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_rcc.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_rcc.o
+ .data.APBAHBPrescTable
+                0x0000000000000000       0x10 ./Drivers/src/ch32v20x_rcc.o
+ .sdata.ADCPrescTable
+                0x0000000000000000        0x4 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_DeInit
+                0x0000000000000000       0x76 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x76 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x68 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_HSICmd
+                0x0000000000000000       0x38 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_PLLCmd
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_ITConfig
+                0x0000000000000000       0x64 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x0000000000000000       0x3c ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x5a ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_LSICmd
+                0x0000000000000000       0x38 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x24 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000       0x3c ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x0000000000000000      0x248 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x0000000000000000       0x3c ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_MCOConfig
+                0x0000000000000000       0x20 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x8e ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x20 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x36 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000       0x20 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_ADCCLKADJcmd
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_rcc.o
+ .text.RCC_ETHDIVConfig
+                0x0000000000000000       0x3c ./Drivers/src/ch32v20x_rcc.o
+ .debug_info    0x0000000000000000      0x96e ./Drivers/src/ch32v20x_rcc.o
+ .debug_abbrev  0x0000000000000000      0x1ef ./Drivers/src/ch32v20x_rcc.o
+ .debug_aranges
+                0x0000000000000000      0x128 ./Drivers/src/ch32v20x_rcc.o
+ .debug_ranges  0x0000000000000000      0x118 ./Drivers/src/ch32v20x_rcc.o
+ .debug_line    0x0000000000000000      0xd40 ./Drivers/src/ch32v20x_rcc.o
+ .debug_str     0x0000000000000000      0x6ae ./Drivers/src/ch32v20x_rcc.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_rcc.o
+ .debug_frame   0x0000000000000000      0x458 ./Drivers/src/ch32v20x_rcc.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_rtc.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_rtc.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_ITConfig
+                0x0000000000000000       0x72 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x0000000000000000       0x30 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x0000000000000000       0x2e ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_GetCounter
+                0x0000000000000000       0x76 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_SetCounter
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_SetPrescaler
+                0x0000000000000000       0x54 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_SetAlarm
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_GetDivider
+                0x0000000000000000       0x4c ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x0000000000000000       0x24 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_ClearFlag
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_GetITStatus
+                0x0000000000000000       0x68 ./Drivers/src/ch32v20x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_rtc.o
+ .debug_info    0x0000000000000000      0x460 ./Drivers/src/ch32v20x_rtc.o
+ .debug_abbrev  0x0000000000000000      0x17e ./Drivers/src/ch32v20x_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x88 ./Drivers/src/ch32v20x_rtc.o
+ .debug_ranges  0x0000000000000000       0x78 ./Drivers/src/ch32v20x_rtc.o
+ .debug_line    0x0000000000000000      0x589 ./Drivers/src/ch32v20x_rtc.o
+ .debug_str     0x0000000000000000      0x3de ./Drivers/src/ch32v20x_rtc.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_rtc.o
+ .debug_frame   0x0000000000000000      0x1dc ./Drivers/src/ch32v20x_rtc.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_spi.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_spi.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_I2S_DeInit
+                0x0000000000000000       0x64 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_Init
+                0x0000000000000000       0xdc ./Drivers/src/ch32v20x_spi.o
+ .text.I2S_Init
+                0x0000000000000000      0x204 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_StructInit
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_spi.o
+ .text.I2S_StructInit
+                0x0000000000000000       0x42 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_Cmd  0x0000000000000000       0x52 ./Drivers/src/ch32v20x_spi.o
+ .text.I2S_Cmd  0x0000000000000000       0x52 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x0000000000000000       0x8c ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x0000000000000000       0x68 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_I2S_SendData
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x0000000000000000       0x5c ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_SSOutputCmd
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_DataSizeConfig
+                0x0000000000000000       0x56 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_TransmitCRC
+                0x0000000000000000       0x2e ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_CalculateCRC
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_GetCRC
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x0000000000000000       0x5e ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x0000000000000000       0x2c ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x0000000000000000       0x98 ./Drivers/src/ch32v20x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x0000000000000000       0x40 ./Drivers/src/ch32v20x_spi.o
+ .debug_info    0x0000000000000000      0x96e ./Drivers/src/ch32v20x_spi.o
+ .debug_abbrev  0x0000000000000000      0x19e ./Drivers/src/ch32v20x_spi.o
+ .debug_aranges
+                0x0000000000000000       0xd0 ./Drivers/src/ch32v20x_spi.o
+ .debug_ranges  0x0000000000000000       0xc0 ./Drivers/src/ch32v20x_spi.o
+ .debug_line    0x0000000000000000      0x9bb ./Drivers/src/ch32v20x_spi.o
+ .debug_str     0x0000000000000000      0x641 ./Drivers/src/ch32v20x_spi.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_spi.o
+ .debug_frame   0x0000000000000000      0x2fc ./Drivers/src/ch32v20x_spi.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_tim.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_tim.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_DeInit
+                0x0000000000000000       0xea ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_TimeBaseInit
+                0x0000000000000000       0xf4 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC1Init
+                0x0000000000000000      0x14e ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC2Init
+                0x0000000000000000      0x194 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC3Init
+                0x0000000000000000      0x18e ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC4Init
+                0x0000000000000000      0x130 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ICInit
+                0x0000000000000000      0x118 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_PWMIConfig
+                0x0000000000000000      0x12c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_BDTRConfig
+                0x0000000000000000       0x78 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x0000000000000000       0x3a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OCStructInit
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ICStructInit
+                0x0000000000000000       0x3a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_BDTRStructInit
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_Cmd  0x0000000000000000       0x50 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x0000000000000000       0x60 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ITConfig
+                0x0000000000000000       0x68 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_GenerateEvent
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_DMAConfig
+                0x0000000000000000       0x38 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_DMACmd
+                0x0000000000000000       0x68 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_InternalClockConfig
+                0x0000000000000000       0x2a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x0000000000000000       0x98 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x0000000000000000       0x8c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x0000000000000000       0x62 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ETRConfig
+                0x0000000000000000       0x78 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_PrescalerConfig
+                0x0000000000000000       0x34 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_CounterModeConfig
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x0000000000000000       0xcc ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x0000000000000000       0x54 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x0000000000000000       0x54 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SelectCOM
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SelectCCDMA
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_CCPreloadControl
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x0000000000000000       0x56 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x0000000000000000       0x56 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC1FastConfig
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC2FastConfig
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC3FastConfig
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC4FastConfig
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x0000000000000000       0x54 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x0000000000000000       0x54 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x0000000000000000       0x48 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x0000000000000000       0x56 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x0000000000000000       0x54 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_CCxCmd
+                0x0000000000000000       0x82 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_CCxNCmd
+                0x0000000000000000       0x82 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SelectOCxM
+                0x0000000000000000      0x100 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SelectHallSensor
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetCounter
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetAutoreload
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetCompare1
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetCompare2
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetCompare3
+                0x0000000000000000       0x22 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetCompare4
+                0x0000000000000000       0x24 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x0000000000000000       0x5c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x0000000000000000       0x5c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_SetClockDivision
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_GetCapture1
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_GetCapture2
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_GetCapture3
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_GetCapture4
+                0x0000000000000000       0x1e ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_GetCounter
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_GetPrescaler
+                0x0000000000000000       0x1c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_GetFlagStatus
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ClearFlag
+                0x0000000000000000       0x2c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_GetITStatus
+                0x0000000000000000       0x6c ./Drivers/src/ch32v20x_tim.o
+ .text.TIM_ClearITPendingBit
+                0x0000000000000000       0x2c ./Drivers/src/ch32v20x_tim.o
+ .text.TI1_Config
+                0x0000000000000000      0x12a ./Drivers/src/ch32v20x_tim.o
+ .text.TI2_Config
+                0x0000000000000000      0x14a ./Drivers/src/ch32v20x_tim.o
+ .text.TI3_Config
+                0x0000000000000000      0x142 ./Drivers/src/ch32v20x_tim.o
+ .text.TI4_Config
+                0x0000000000000000      0x15a ./Drivers/src/ch32v20x_tim.o
+ .debug_info    0x0000000000000000     0x1dcf ./Drivers/src/ch32v20x_tim.o
+ .debug_abbrev  0x0000000000000000      0x1c9 ./Drivers/src/ch32v20x_tim.o
+ .debug_aranges
+                0x0000000000000000      0x2f0 ./Drivers/src/ch32v20x_tim.o
+ .debug_ranges  0x0000000000000000      0x2e0 ./Drivers/src/ch32v20x_tim.o
+ .debug_line    0x0000000000000000     0x1f90 ./Drivers/src/ch32v20x_tim.o
+ .debug_str     0x0000000000000000      0xe3f ./Drivers/src/ch32v20x_tim.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_tim.o
+ .debug_frame   0x0000000000000000      0xbb4 ./Drivers/src/ch32v20x_tim.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_usart.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_usart.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_DeInit
+                0x0000000000000000       0xc8 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_Init
+                0x0000000000000000      0x21c ./Drivers/src/ch32v20x_usart.o
+ .text.USART_StructInit
+                0x0000000000000000       0x46 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_ClockInit
+                0x0000000000000000       0x82 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_ClockStructInit
+                0x0000000000000000       0x32 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_Cmd
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_ITConfig
+                0x0000000000000000       0xc4 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_DMACmd
+                0x0000000000000000       0x68 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_SetAddress
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_WakeUpConfig
+                0x0000000000000000       0x56 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_LINCmd
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_SendData
+                0x0000000000000000       0x2c ./Drivers/src/ch32v20x_usart.o
+ .text.USART_ReceiveData
+                0x0000000000000000       0x24 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_SendBreak
+                0x0000000000000000       0x2c ./Drivers/src/ch32v20x_usart.o
+ .text.USART_SetGuardTime
+                0x0000000000000000       0x5a ./Drivers/src/ch32v20x_usart.o
+ .text.USART_SetPrescaler
+                0x0000000000000000       0x54 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_SmartCardCmd
+                0x0000000000000000       0x52 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_OverSampling8Cmd
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_OneBitMethodCmd
+                0x0000000000000000       0x5e ./Drivers/src/ch32v20x_usart.o
+ .text.USART_IrDAConfig
+                0x0000000000000000       0x4e ./Drivers/src/ch32v20x_usart.o
+ .text.USART_IrDACmd
+                0x0000000000000000       0x50 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_GetFlagStatus
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_usart.o
+ .text.USART_ClearFlag
+                0x0000000000000000       0x2c ./Drivers/src/ch32v20x_usart.o
+ .text.USART_GetITStatus
+                0x0000000000000000       0xfa ./Drivers/src/ch32v20x_usart.o
+ .text.USART_ClearITPendingBit
+                0x0000000000000000       0x4c ./Drivers/src/ch32v20x_usart.o
+ .debug_info    0x0000000000000000      0xa42 ./Drivers/src/ch32v20x_usart.o
+ .debug_abbrev  0x0000000000000000      0x19e ./Drivers/src/ch32v20x_usart.o
+ .debug_aranges
+                0x0000000000000000      0x100 ./Drivers/src/ch32v20x_usart.o
+ .debug_ranges  0x0000000000000000       0xf0 ./Drivers/src/ch32v20x_usart.o
+ .debug_line    0x0000000000000000      0xb9f ./Drivers/src/ch32v20x_usart.o
+ .debug_str     0x0000000000000000      0x6c9 ./Drivers/src/ch32v20x_usart.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_usart.o
+ .debug_frame   0x0000000000000000      0x3bc ./Drivers/src/ch32v20x_usart.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_wwdg.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/ch32v20x_wwdg.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/ch32v20x_wwdg.o
+ .text.WWDG_DeInit
+                0x0000000000000000       0x32 ./Drivers/src/ch32v20x_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x0000000000000000       0x44 ./Drivers/src/ch32v20x_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x0000000000000000       0x4a ./Drivers/src/ch32v20x_wwdg.o
+ .text.WWDG_EnableIT
+                0x0000000000000000       0x26 ./Drivers/src/ch32v20x_wwdg.o
+ .text.WWDG_SetCounter
+                0x0000000000000000       0x26 ./Drivers/src/ch32v20x_wwdg.o
+ .text.WWDG_Enable
+                0x0000000000000000       0x2a ./Drivers/src/ch32v20x_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x0000000000000000       0x18 ./Drivers/src/ch32v20x_wwdg.o
+ .text.WWDG_ClearFlag
+                0x0000000000000000       0x1a ./Drivers/src/ch32v20x_wwdg.o
+ .debug_info    0x0000000000000000      0x227 ./Drivers/src/ch32v20x_wwdg.o
+ .debug_abbrev  0x0000000000000000      0x122 ./Drivers/src/ch32v20x_wwdg.o
+ .debug_aranges
+                0x0000000000000000       0x58 ./Drivers/src/ch32v20x_wwdg.o
+ .debug_ranges  0x0000000000000000       0x48 ./Drivers/src/ch32v20x_wwdg.o
+ .debug_line    0x0000000000000000      0x2f5 ./Drivers/src/ch32v20x_wwdg.o
+ .debug_str     0x0000000000000000      0x28d ./Drivers/src/ch32v20x_wwdg.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/ch32v20x_wwdg.o
+ .debug_frame   0x0000000000000000      0x114 ./Drivers/src/ch32v20x_wwdg.o
+ .text          0x0000000000000000        0x0 ./Drivers/src/core_riscv.o
+ .data          0x0000000000000000        0x0 ./Drivers/src/core_riscv.o
+ .bss           0x0000000000000000        0x0 ./Drivers/src/core_riscv.o
+ .text.__get_MSTATUS
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__set_MSTATUS
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MISA
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__set_MISA
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MTVEC
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__set_MTVEC
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MSCRATCH
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__set_MSCRATCH
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MEPC
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__set_MEPC
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MCAUSE
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__set_MCAUSE
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MTVAL
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__set_MTVAL
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MVENDORID
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MARCHID
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MIMPID
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_MHARTID
+                0x0000000000000000       0x1a ./Drivers/src/core_riscv.o
+ .text.__get_SP
+                0x0000000000000000       0x18 ./Drivers/src/core_riscv.o
+ .debug_info    0x0000000000000000      0x389 ./Drivers/src/core_riscv.o
+ .debug_abbrev  0x0000000000000000       0xe0 ./Drivers/src/core_riscv.o
+ .debug_aranges
+                0x0000000000000000       0xb0 ./Drivers/src/core_riscv.o
+ .debug_ranges  0x0000000000000000       0xa0 ./Drivers/src/core_riscv.o
+ .debug_line    0x0000000000000000      0x40a ./Drivers/src/core_riscv.o
+ .debug_str     0x0000000000000000      0x292 ./Drivers/src/core_riscv.o
+ .comment       0x0000000000000000       0x34 ./Drivers/src/core_riscv.o
+ .debug_frame   0x0000000000000000      0x270 ./Drivers/src/core_riscv.o
+ .text          0x0000000000000000        0x0 ./Core/Startup/startup_ch32v20x_D6.o
+ .data          0x0000000000000000        0x0 ./Core/Startup/startup_ch32v20x_D6.o
+ .bss           0x0000000000000000        0x0 ./Core/Startup/startup_ch32v20x_D6.o
+ .text          0x0000000000000000        0x0 ./Core/Src/ESP8266_lib.o
+ .data          0x0000000000000000        0x0 ./Core/Src/ESP8266_lib.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/ESP8266_lib.o
+ .text          0x0000000000000000        0x0 ./Core/Src/MQTT.o
+ .data          0x0000000000000000        0x0 ./Core/Src/MQTT.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/MQTT.o
+ .text.UART_MQTT_Send_data_uint16_t
+                0x0000000000000000      0x14c ./Core/Src/MQTT.o
+ .text.UART_MQTT_Receive_data_int16_t
+                0x0000000000000000       0x86 ./Core/Src/MQTT.o
+ .text          0x0000000000000000        0x0 ./Core/Src/ModbusRTU.o
+ .data          0x0000000000000000        0x0 ./Core/Src/ModbusRTU.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/ModbusRTU.o
+ .text.ModbusRTU_Read_Coils_0x01
+                0x0000000000000000       0xfe ./Core/Src/ModbusRTU.o
+ .text.ModbusRTU_Read_Discrete_Inputs_0x02
+                0x0000000000000000       0xfe ./Core/Src/ModbusRTU.o
+ .text.ModbusRTU_Read_Input_Registers_0x04
+                0x0000000000000000       0xee ./Core/Src/ModbusRTU.o
+ .text.ModbusRTU_Preset_Multiple_Registers_0x10
+                0x0000000000000000      0x1b4 ./Core/Src/ModbusRTU.o
+ .text.ModbusRTU_GetData_Float
+                0x0000000000000000      0x178 ./Core/Src/ModbusRTU.o
+ .text.ModbusRTU_Float_to_U32_convert
+                0x0000000000000000      0x118 ./Core/Src/ModbusRTU.o
+ .text          0x0000000000000000        0x0 ./Core/Src/ModbusRTU_Master.o
+ .data          0x0000000000000000        0x0 ./Core/Src/ModbusRTU_Master.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/ModbusRTU_Master.o
+ .bss.Array     0x0000000000000000       0xff ./Core/Src/ModbusRTU_Master.o
+ .sbss.tx_buffer_size
+                0x0000000000000000        0x1 ./Core/Src/ModbusRTU_Master.o
+ .bss.flags_read_data_block
+                0x0000000000000000       0x40 ./Core/Src/ModbusRTU_Master.o
+ .text          0x0000000000000000        0x0 ./Core/Src/SoftwareTimer.o
+ .data          0x0000000000000000        0x0 ./Core/Src/SoftwareTimer.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/SoftwareTimer.o
+ .text          0x0000000000000000        0x0 ./Core/Src/ch32v203xx_it.o
+ .data          0x0000000000000000        0x0 ./Core/Src/ch32v203xx_it.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/ch32v203xx_it.o
+ .text          0x0000000000000000        0x0 ./Core/Src/ch32v20x_RVMSIS.o
+ .data          0x0000000000000000        0x0 ./Core/Src/ch32v20x_RVMSIS.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.SysTick_Handler
+                0x0000000000000000       0x76 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_PC13_OUTPUT_Push_Pull_init
+                0x0000000000000000       0x4e ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_Blink_PC13
+                0x0000000000000000       0x40 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_PA8_MCO_init
+                0x0000000000000000       0x6e ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_EXTI0_init
+                0x0000000000000000       0xee ./Core/Src/ch32v20x_RVMSIS.o
+ .text.EXTI0_IRQHandler
+                0x0000000000000000       0x30 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.TIM3_IRQHandler
+                0x0000000000000000       0x4a ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_TIM3_PWM_CHANNEL1_init
+                0x0000000000000000      0x160 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_TIM3_PWM_CHANNEL2_init
+                0x0000000000000000      0x172 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_TIM1_init
+                0x0000000000000000      0x1ea ./Core/Src/ch32v20x_RVMSIS.o
+ .text.TIM1_UP_IRQHandler
+                0x0000000000000000       0x4a ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_TIM1_PWM_CHANNEL1_init
+                0x0000000000000000      0x156 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_TIM1_PWM_CHANNEL2_init
+                0x0000000000000000      0x168 ./Core/Src/ch32v20x_RVMSIS.o
+ .sbss.ADC_RAW_Data
+                0x0000000000000000        0x4 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_ADC_DMA_init
+                0x0000000000000000      0x426 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.ADC1_2_IRQHandler
+                0x0000000000000000       0x2c ./Core/Src/ch32v20x_RVMSIS.o
+ .text.DMA1_Channel1_IRQHandler
+                0x0000000000000000       0x4e ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_USART3_Init
+                0x0000000000000000      0x364 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.USART1_IRQHandler
+                0x0000000000000000       0xe0 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.USART2_IRQHandler
+                0x0000000000000000       0xe0 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.USART3_IRQHandler
+                0x0000000000000000       0xe0 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_I2C_Reset
+                0x0000000000000000       0x84 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_I2C1_Init
+                0x0000000000000000      0x418 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_I2C_Adress_Device_Scan
+                0x0000000000000000      0x1f6 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_I2C_Data_Transmit
+                0x0000000000000000      0x292 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_I2C_Data_Receive
+                0x0000000000000000      0x2fa ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_I2C_MemWrite
+                0x0000000000000000      0x346 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_I2C_MemRead
+                0x0000000000000000      0x464 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_SPI1_init
+                0x0000000000000000      0x332 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_SPI_Data_Transmit_8BIT
+                0x0000000000000000       0xfe ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_SPI_Data_Transmit_16BIT
+                0x0000000000000000       0xf4 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_SPI_Data_Receive_8BIT
+                0x0000000000000000       0xf0 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_SPI_Data_Receive_16BIT
+                0x0000000000000000       0xec ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_FLASH_Unlock
+                0x0000000000000000       0x2a ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_FLASH_Lock
+                0x0000000000000000       0x1e ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_FLASH_Page_erase
+                0x0000000000000000       0x78 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_FLASH_Page_write
+                0x0000000000000000      0x184 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_FLASH_Read_data
+                0x0000000000000000       0xda ./Core/Src/ch32v20x_RVMSIS.o
+ .text          0x0000000000000000        0x0 ./Core/Src/main.o
+ .data          0x0000000000000000        0x0 ./Core/Src/main.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/main.o
+ .text          0x0000000000000000        0x0 ./Core/Src/syscalls.o
+ .data          0x0000000000000000        0x0 ./Core/Src/syscalls.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/syscalls.o
+ .text._write   0x0000000000000000       0x7e ./Core/Src/syscalls.o
+ .debug_info    0x0000000000000000      0xa9d ./Core/Src/syscalls.o
+ .debug_abbrev  0x0000000000000000      0x22e ./Core/Src/syscalls.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./Core/Src/syscalls.o
+ .debug_ranges  0x0000000000000000       0x10 ./Core/Src/syscalls.o
+ .debug_line    0x0000000000000000      0x259 ./Core/Src/syscalls.o
+ .debug_str     0x0000000000000000      0x633 ./Core/Src/syscalls.o
+ .comment       0x0000000000000000       0x34 ./Core/Src/syscalls.o
+ .debug_frame   0x0000000000000000       0x34 ./Core/Src/syscalls.o
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(muldf3.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(muldf3.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(muldf3.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsidf.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsidf.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsidf.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsidf.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsidf.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsidf.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(truncdfsf2.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(truncdfsf2.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(truncdfsf2.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000010000 xr
+RAM              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./Drivers/src/ch32v20x_adc.o
+LOAD ./Drivers/src/ch32v20x_bkp.o
+LOAD ./Drivers/src/ch32v20x_can.o
+LOAD ./Drivers/src/ch32v20x_crc.o
+LOAD ./Drivers/src/ch32v20x_dbgmcu.o
+LOAD ./Drivers/src/ch32v20x_dma.o
+LOAD ./Drivers/src/ch32v20x_exti.o
+LOAD ./Drivers/src/ch32v20x_flash.o
+LOAD ./Drivers/src/ch32v20x_gpio.o
+LOAD ./Drivers/src/ch32v20x_i2c.o
+LOAD ./Drivers/src/ch32v20x_iwdg.o
+LOAD ./Drivers/src/ch32v20x_misc.o
+LOAD ./Drivers/src/ch32v20x_opa.o
+LOAD ./Drivers/src/ch32v20x_pwr.o
+LOAD ./Drivers/src/ch32v20x_rcc.o
+LOAD ./Drivers/src/ch32v20x_rtc.o
+LOAD ./Drivers/src/ch32v20x_spi.o
+LOAD ./Drivers/src/ch32v20x_tim.o
+LOAD ./Drivers/src/ch32v20x_usart.o
+LOAD ./Drivers/src/ch32v20x_wwdg.o
+LOAD ./Drivers/src/core_riscv.o
+LOAD ./Core/Startup/startup_ch32v20x_D6.o
+LOAD ./Core/Src/ESP8266_lib.o
+LOAD ./Core/Src/MQTT.o
+LOAD ./Core/Src/ModbusRTU.o
+LOAD ./Core/Src/ModbusRTU_Master.o
+LOAD ./Core/Src/SoftwareTimer.o
+LOAD ./Core/Src/ch32v203xx_it.o
+LOAD ./Core/Src/ch32v20x_RVMSIS.o
+LOAD ./Core/Src/main.o
+LOAD ./Core/Src/syscalls.o
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libg_nano.a
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a
+START GROUP
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libc_nano.a
+LOAD c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/../../../../riscv-none-embed/lib/rv32imacxw/ilp32\libnosys.a
+END GROUP
+                0x0000000000000800                __stack_size = 0x800
+                [!provide]                        PROVIDE (_stack_size = __stack_size)
+
+.init           0x0000000000000000       0x38
+                0x0000000000000000                _sinit = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(SORT_NONE(.init))
+ .init          0x0000000000000000       0x38 ./Core/Startup/startup_ch32v20x_D6.o
+                0x0000000000000000                _start
+                0x0000000000000038                . = ALIGN (0x4)
+                0x0000000000000038                _einit = .
+
+.vector         0x0000000000000038      0x108
+ *(.vector)
+ .vector        0x0000000000000038       0xfc ./Core/Startup/startup_ch32v20x_D6.o
+                0x0000000000000140                . = ALIGN (0x40)
+ *fill*         0x0000000000000134        0xc 
+
+.text           0x0000000000000140     0x30f0
+                0x0000000000000140                . = ALIGN (0x4)
+ *(.text)
+ *(.text.*)
+ .text.vector_handler
+                0x0000000000000140       0x6c ./Core/Startup/startup_ch32v20x_D6.o
+                0x0000000000000140                NMI_Handler
+                0x0000000000000142                HardFault_Handler
+                0x0000000000000144                Ecall_M_Mode_Handler
+                0x0000000000000146                Ecall_U_Mode_Handler
+                0x0000000000000148                Break_Point_Handler
+                0x000000000000014c                SW_Handler
+                0x000000000000014e                WWDG_IRQHandler
+                0x0000000000000150                PVD_IRQHandler
+                0x0000000000000152                TAMPER_IRQHandler
+                0x0000000000000154                RTC_IRQHandler
+                0x0000000000000156                FLASH_IRQHandler
+                0x0000000000000158                RCC_IRQHandler
+                0x000000000000015a                EXTI0_IRQHandler
+                0x000000000000015c                EXTI1_IRQHandler
+                0x000000000000015e                EXTI2_IRQHandler
+                0x0000000000000160                EXTI3_IRQHandler
+                0x0000000000000162                EXTI4_IRQHandler
+                0x0000000000000164                DMA1_Channel1_IRQHandler
+                0x0000000000000166                DMA1_Channel2_IRQHandler
+                0x0000000000000168                DMA1_Channel3_IRQHandler
+                0x000000000000016a                DMA1_Channel4_IRQHandler
+                0x000000000000016c                DMA1_Channel5_IRQHandler
+                0x000000000000016e                DMA1_Channel6_IRQHandler
+                0x0000000000000170                DMA1_Channel7_IRQHandler
+                0x0000000000000172                ADC1_2_IRQHandler
+                0x0000000000000174                USB_HP_CAN1_TX_IRQHandler
+                0x0000000000000176                USB_LP_CAN1_RX0_IRQHandler
+                0x0000000000000178                CAN1_RX1_IRQHandler
+                0x000000000000017a                CAN1_SCE_IRQHandler
+                0x000000000000017c                EXTI9_5_IRQHandler
+                0x000000000000017e                TIM1_BRK_IRQHandler
+                0x0000000000000182                TIM1_TRG_COM_IRQHandler
+                0x0000000000000184                TIM1_CC_IRQHandler
+                0x0000000000000186                TIM2_IRQHandler
+                0x000000000000018a                TIM4_IRQHandler
+                0x000000000000018c                I2C1_EV_IRQHandler
+                0x000000000000018e                I2C1_ER_IRQHandler
+                0x0000000000000190                I2C2_EV_IRQHandler
+                0x0000000000000192                I2C2_ER_IRQHandler
+                0x0000000000000194                SPI1_IRQHandler
+                0x0000000000000196                SPI2_IRQHandler
+                0x000000000000019e                EXTI15_10_IRQHandler
+                0x00000000000001a0                RTCAlarm_IRQHandler
+                0x00000000000001a2                USBWakeUp_IRQHandler
+                0x00000000000001a4                USBHD_IRQHandler
+                0x00000000000001a6                USBHDWakeUp_IRQHandler
+                0x00000000000001a8                UART4_IRQHandler
+                0x00000000000001aa                DMA1_Channel8_IRQHandler
+ .text.handle_reset
+                0x00000000000001ac       0x82 ./Core/Startup/startup_ch32v20x_D6.o
+                0x00000000000001ac                handle_reset
+ .text.ESP8266_Reset
+                0x000000000000022e       0x48 ./Core/Src/ESP8266_lib.o
+                0x000000000000022e                ESP8266_Reset
+ .text.ESP8266_Indication_run
+                0x0000000000000276       0x8a ./Core/Src/ESP8266_lib.o
+                0x0000000000000276                ESP8266_Indication_run
+ .text.ESP8266_Indication_Timer
+                0x0000000000000300       0x42 ./Core/Src/ESP8266_lib.o
+                0x0000000000000300                ESP8266_Indication_Timer
+ .text.UART_MQTT_Check_net
+                0x0000000000000342      0x1fe ./Core/Src/MQTT.o
+                0x0000000000000342                UART_MQTT_Check_net
+ .text.UART_MQTT_Checksumm_validation
+                0x0000000000000540       0xe0 ./Core/Src/MQTT.o
+                0x0000000000000540                UART_MQTT_Checksumm_validation
+ .text.UART_MQTT_Send_data_int16_t
+                0x0000000000000620      0x148 ./Core/Src/MQTT.o
+                0x0000000000000620                UART_MQTT_Send_data_int16_t
+ .text.UART_MQTT_Send_data_float
+                0x0000000000000768      0x148 ./Core/Src/MQTT.o
+                0x0000000000000768                UART_MQTT_Send_data_float
+ .text.ModbusRTU_CRC16_Calculate
+                0x00000000000008b0      0x1aa ./Core/Src/ModbusRTU.o
+                0x00000000000008b0                ModbusRTU_CRC16_Calculate
+ .text.ModbusRTU_Read_Holding_Registers_0x03
+                0x0000000000000a5a       0xe4 ./Core/Src/ModbusRTU.o
+                0x0000000000000a5a                ModbusRTU_Read_Holding_Registers_0x03
+ .text.ModbusRTU_GetData_U32
+                0x0000000000000b3e      0x176 ./Core/Src/ModbusRTU.o
+                0x0000000000000b3e                ModbusRTU_GetData_U32
+ .text.ModbusRTU_GetData_U16
+                0x0000000000000cb4       0x9a ./Core/Src/ModbusRTU.o
+                0x0000000000000cb4                ModbusRTU_GetData_U16
+ .text.ModbusRTU_request_queue
+                0x0000000000000d4e       0x54 ./Core/Src/ModbusRTU_Master.o
+                0x0000000000000d4e                ModbusRTU_request_queue
+ .text.ModbusRTU_response_handler
+                0x0000000000000da2      0x236 ./Core/Src/ModbusRTU_Master.o
+                0x0000000000000da2                ModbusRTU_response_handler
+ .text.ModbusRTU_Master_pool
+                0x0000000000000fd8       0x8c ./Core/Src/ModbusRTU_Master.o
+                0x0000000000000fd8                ModbusRTU_Master_pool
+ .text.ModbusRTU_Master_pool_run
+                0x0000000000001064       0xd0 ./Core/Src/ModbusRTU_Master.o
+                0x0000000000001064                ModbusRTU_Master_pool_run
+ .text.Software_timer
+                0x0000000000001134       0x20 ./Core/Src/SoftwareTimer.o
+                0x0000000000001134                Software_timer
+ .text.Software_timer_check
+                0x0000000000001154       0x30 ./Core/Src/SoftwareTimer.o
+                0x0000000000001154                Software_timer_check
+ .text.SysTick_Handler
+                0x0000000000001184       0xac ./Core/Src/ch32v203xx_it.o
+                0x0000000000001184                SysTick_Handler
+ .text.USART1_IRQHandler
+                0x0000000000001230      0x10e ./Core/Src/ch32v203xx_it.o
+                0x0000000000001230                USART1_IRQHandler
+ .text.USART2_IRQHandler
+                0x000000000000133e       0xb6 ./Core/Src/ch32v203xx_it.o
+                0x000000000000133e                USART2_IRQHandler
+ .text.USART3_IRQHandler
+                0x00000000000013f4       0xbc ./Core/Src/ch32v203xx_it.o
+                0x00000000000013f4                USART3_IRQHandler
+ .text.TIM3_IRQHandler
+                0x00000000000014b0       0x72 ./Core/Src/ch32v203xx_it.o
+                0x00000000000014b0                TIM3_IRQHandler
+ .text.TIM1_UP_IRQHandler
+                0x0000000000001522       0x4a ./Core/Src/ch32v203xx_it.o
+                0x0000000000001522                TIM1_UP_IRQHandler
+ .text.RVMSIS_Debug_init
+                0x000000000000156c       0x70 ./Core/Src/ch32v20x_RVMSIS.o
+                0x000000000000156c                RVMSIS_Debug_init
+ .text.RVMSIS_RCC_SystemClock_144MHz
+                0x00000000000015dc      0x17c ./Core/Src/ch32v20x_RVMSIS.o
+                0x00000000000015dc                RVMSIS_RCC_SystemClock_144MHz
+ .text.RVMSIS_SysTick_Timer_init
+                0x0000000000001758       0xd0 ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000000001758                RVMSIS_SysTick_Timer_init
+ .text.Delay_ms
+                0x0000000000001828       0x22 ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000000001828                Delay_ms
+ .text.RVMSIS_GPIO_MODE_Set
+                0x000000000000184a       0xae ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_GPIO_SPEED_Set
+                0x00000000000018f8       0xb8 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_GPIO_CNF_Set
+                0x00000000000019b0       0x96 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_GPIO_Reg_Set
+                0x0000000000001a46      0x178 ./Core/Src/ch32v20x_RVMSIS.o
+ .text.RVMSIS_GPIO_init
+                0x0000000000001bbe      0x15a ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000000001bbe                RVMSIS_GPIO_init
+ .text.RVMSIS_TIM3_init
+                0x0000000000001d18      0x19e ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000000001d18                RVMSIS_TIM3_init
+ .text.RVMSIS_USART1_Init
+                0x0000000000001eb6      0x35c ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000000001eb6                RVMSIS_USART1_Init
+ .text.RVMSIS_USART2_Init
+                0x0000000000002212      0x366 ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000000002212                RVMSIS_USART2_Init
+ .text.RVMSIS_USART_Transmit
+                0x0000000000002578       0xa0 ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000000002578                RVMSIS_USART_Transmit
+ .text.ModbusRTU_Transmit
+                0x0000000000002618       0xd6 ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000000002618                ModbusRTU_Transmit
+ .text.Task1_MQTT_Send
+                0x00000000000026ee       0xe8 ./Core/Src/main.o
+                0x00000000000026ee                Task1_MQTT_Send
+ .text.MQTT_Reveieve
+                0x00000000000027d6        0xe ./Core/Src/main.o
+                0x00000000000027d6                MQTT_Reveieve
+ .text.main     0x00000000000027e4       0x9a ./Core/Src/main.o
+                0x00000000000027e4                main
+ .text.__muldf3
+                0x000000000000287e      0x4b0 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(muldf3.o)
+                0x000000000000287e                __muldf3
+ .text.__floatsidf
+                0x0000000000002d2e       0x70 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsidf.o)
+                0x0000000000002d2e                __floatsidf
+ .text.__floatunsidf
+                0x0000000000002d9e       0x66 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsidf.o)
+                0x0000000000002d9e                __floatunsidf
+ .text.__floatunsisf
+                0x0000000000002e04       0xce c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+                0x0000000000002e04                __floatunsisf
+ .text.__truncdfsf2
+                0x0000000000002ed2      0x16a c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(truncdfsf2.o)
+                0x0000000000002ed2                __truncdfsf2
+ .text.__clzsi2
+                0x000000000000303c       0x6e c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)
+                0x000000000000303c                __clzsi2
+ *(.rodata)
+ *fill*         0x00000000000030aa        0x6 
+ .rodata        0x00000000000030b0        0x8 ./Core/Src/ModbusRTU_Master.o
+ *(.rodata*)
+ .rodata.ModbusRTU_request_queue
+                0x00000000000030b8       0x1c ./Core/Src/ModbusRTU_Master.o
+ .rodata.ModbusRTU_response_handler
+                0x00000000000030d4       0x1c ./Core/Src/ModbusRTU_Master.o
+ .rodata.__muldf3
+                0x00000000000030f0       0x40 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(muldf3.o)
+ .rodata.__clz_tab
+                0x0000000000003130      0x100 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clz.o)
+                0x0000000000003130                __clz_tab
+ *(.gnu.linkonce.t.*)
+                0x0000000000003230                . = ALIGN (0x4)
+
+.rela.dyn       0x0000000000003230        0x0
+ .rela.init     0x0000000000003230        0x0 ./Core/Startup/startup_ch32v20x_D6.o
+ .rela.vector   0x0000000000003230        0x0 ./Core/Startup/startup_ch32v20x_D6.o
+ .rela.text.handle_reset
+                0x0000000000003230        0x0 ./Core/Startup/startup_ch32v20x_D6.o
+
+.fini           0x0000000000003230        0x0
+ *(SORT_NONE(.fini))
+                0x0000000000003230                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (_eitcm = .)
+
+.preinit_array  0x0000000000003230        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000003230        0x0
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000003230        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.dalign         0x0000000020000000        0x0 load address 0x0000000000003230
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                PROVIDE (_data_vma = .)
+
+.dlalign        0x0000000000003230        0x0
+                0x0000000000003230                . = ALIGN (0x4)
+                0x0000000000003230                PROVIDE (_data_lma = .)
+
+.data           0x0000000020000000        0x8 load address 0x0000000000003230
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ *(.gnu.linkonce.d.*)
+                0x0000000020000000                . = ALIGN (0x8)
+                0x0000000020000800                PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.*)
+ .sdata.SW_Timer_Status_LED_WIFI_MQTT_Delay
+                0x0000000020000000        0x4 ./Core/Src/ESP8266_lib.o
+                0x0000000020000000                SW_Timer_Status_LED_WIFI_MQTT_Delay
+ .sdata.flag_ModbusRTU_request_on
+                0x0000000020000004        0x1 ./Core/Src/main.o
+                0x0000000020000004                flag_ModbusRTU_request_on
+ *(.sdata2.*)
+ *(.gnu.linkonce.s.*)
+                0x0000000020000008                . = ALIGN (0x8)
+ *fill*         0x0000000020000005        0x3 
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+                0x0000000020000008                . = ALIGN (0x4)
+                0x0000000020000008                PROVIDE (_edata = .)
+
+.bss            0x0000000020000008      0x4dc load address 0x0000000000003238
+                0x0000000020000008                . = ALIGN (0x4)
+                0x0000000020000008                PROVIDE (_sbss = .)
+ *(.sbss*)
+ .sbss.SW_Timer_Status_LED_WIFI_MQTT
+                0x0000000020000008        0x4 ./Core/Src/ESP8266_lib.o
+                0x0000000020000008                SW_Timer_Status_LED_WIFI_MQTT
+ .sbss.flag_SW_Timer_Status_LED_Wifi_MQTT
+                0x000000002000000c        0x1 ./Core/Src/ESP8266_lib.o
+                0x000000002000000c                flag_SW_Timer_Status_LED_Wifi_MQTT
+ .sbss.flag_Status_LED_Wifi_MQTT
+                0x000000002000000d        0x1 ./Core/Src/ESP8266_lib.o
+                0x000000002000000d                flag_Status_LED_Wifi_MQTT
+ .sbss.flag_Network_ok
+                0x000000002000000e        0x1 ./Core/Src/ESP8266_lib.o
+                0x000000002000000e                flag_Network_ok
+ .sbss.NETWORK_Status
+                0x000000002000000f        0x1 ./Core/Src/MQTT.o
+                0x000000002000000f                NETWORK_Status
+ .sbss.ABB_E31_Total_active_energy
+                0x0000000020000010        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000010                ABB_E31_Total_active_energy
+ .sbss.ABB_E31_Active_energy_1
+                0x0000000020000014        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000014                ABB_E31_Active_energy_1
+ .sbss.ABB_E31_Active_energy_2
+                0x0000000020000018        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000018                ABB_E31_Active_energy_2
+ .sbss.ABB_E31_Active_energy_3
+                0x000000002000001c        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x000000002000001c                ABB_E31_Active_energy_3
+ .sbss.ABB_E31_Active_energy_4
+                0x0000000020000020        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000020                ABB_E31_Active_energy_4
+ .sbss.ABB_E31_Voltage
+                0x0000000020000024        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000024                ABB_E31_Voltage
+ .sbss.ABB_E31_Amp
+                0x0000000020000028        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000028                ABB_E31_Amp
+ .sbss.ABB_E31_Active_power
+                0x000000002000002c        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x000000002000002c                ABB_E31_Active_power
+ .sbss.ABB_E31_Power_factor
+                0x0000000020000030        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000030                ABB_E31_Power_factor
+ .sbss.ABB_E31_Frequency
+                0x0000000020000034        0x4 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000034                ABB_E31_Frequency
+ .sbss.ABB_E31_Temperature
+                0x0000000020000038        0x2 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000038                ABB_E31_Temperature
+ *fill*         0x000000002000003a        0x2 
+ .sbss.SysTimer_ms
+                0x000000002000003c        0x4 ./Core/Src/ch32v20x_RVMSIS.o
+                0x000000002000003c                SysTimer_ms
+ .sbss.Delay_counter_ms
+                0x0000000020000040        0x4 ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000020000040                Delay_counter_ms
+ .sbss.Timeout_counter_ms
+                0x0000000020000044        0x4 ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000020000044                Timeout_counter_ms
+ .sbss.ModbusRTU_Timeout
+                0x0000000020000048        0x4 ./Core/Src/main.o
+                0x0000000020000048                ModbusRTU_Timeout
+ .sbss.ModbusRTU_delay_between_pool
+                0x000000002000004c        0x4 ./Core/Src/main.o
+                0x000000002000004c                ModbusRTU_delay_between_pool
+ .sbss.ModbusRTU_Counter_in_queue
+                0x0000000020000050        0x1 ./Core/Src/main.o
+                0x0000000020000050                ModbusRTU_Counter_in_queue
+ .sbss.flag_ModbusRTU_block
+                0x0000000020000051        0x1 ./Core/Src/main.o
+                0x0000000020000051                flag_ModbusRTU_block
+ .sbss.Task1    0x0000000020000052        0x1 ./Core/Src/main.o
+                0x0000000020000052                Task1
+ *fill*         0x0000000020000053        0x1 
+ .sbss.MQTT_Send_Timer
+                0x0000000020000054        0x4 ./Core/Src/main.o
+                0x0000000020000054                MQTT_Send_Timer
+ *(.gnu.linkonce.sb.*)
+ *(.bss*)
+ .bss.ModbusRTU_tx_buffer
+                0x0000000020000058      0x100 ./Core/Src/ModbusRTU.o
+                0x0000000020000058                ModbusRTU_tx_buffer
+ .bss.flags_tx_data_ready
+                0x0000000020000158       0x40 ./Core/Src/ModbusRTU_Master.o
+                0x0000000020000158                flags_tx_data_ready
+ .bss.husart1   0x0000000020000198      0x104 ./Core/Src/ch32v20x_RVMSIS.o
+                0x0000000020000198                husart1
+ .bss.husart2   0x000000002000029c      0x104 ./Core/Src/ch32v20x_RVMSIS.o
+                0x000000002000029c                husart2
+ .bss.husart3   0x00000000200003a0      0x104 ./Core/Src/ch32v20x_RVMSIS.o
+                0x00000000200003a0                husart3
+ .bss.MQTT_Arr  0x00000000200004a4       0x40 ./Core/Src/main.o
+                0x00000000200004a4                MQTT_Arr
+ *(.gnu.linkonce.b.*)
+ *(COMMON*)
+                0x00000000200004e4                . = ALIGN (0x4)
+                0x00000000200004e4                PROVIDE (_ebss = .)
+                [!provide]                        PROVIDE (_end = _ebss)
+                [!provide]                        PROVIDE (end = .)
+
+.stack          0x0000000020004800      0x800
+                [!provide]                        PROVIDE (_heap_end = .)
+                0x0000000020004800                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_susrstack = .)
+                0x0000000020005000                . = (. + __stack_size)
+ *fill*         0x0000000020004800      0x800 
+                0x0000000020005000                PROVIDE (_eusrstack = .)
+OUTPUT(Clean_project.elf elf32-littleriscv)
+
+.debug_line     0x0000000000000000     0x5561
+ .debug_line    0x0000000000000000      0x25e ./Core/Startup/startup_ch32v20x_D6.o
+ .debug_line    0x000000000000025e      0x264 ./Core/Src/ESP8266_lib.o
+ .debug_line    0x00000000000004c2      0x9c5 ./Core/Src/MQTT.o
+ .debug_line    0x0000000000000e87      0xc5e ./Core/Src/ModbusRTU.o
+ .debug_line    0x0000000000001ae5      0x4f7 ./Core/Src/ModbusRTU_Master.o
+ .debug_line    0x0000000000001fdc      0x183 ./Core/Src/SoftwareTimer.o
+ .debug_line    0x000000000000215f      0x469 ./Core/Src/ch32v203xx_it.o
+ .debug_line    0x00000000000025c8     0x2c4e ./Core/Src/ch32v20x_RVMSIS.o
+ .debug_line    0x0000000000005216      0x34b ./Core/Src/main.o
+
+.debug_info     0x0000000000000000     0x48c4
+ .debug_info    0x0000000000000000       0x22 ./Core/Startup/startup_ch32v20x_D6.o
+ .debug_info    0x0000000000000022      0x1c2 ./Core/Src/ESP8266_lib.o
+ .debug_info    0x00000000000001e4      0x480 ./Core/Src/MQTT.o
+ .debug_info    0x0000000000000664      0x625 ./Core/Src/ModbusRTU.o
+ .debug_info    0x0000000000000c89      0xc36 ./Core/Src/ModbusRTU_Master.o
+ .debug_info    0x00000000000018bf       0xec ./Core/Src/SoftwareTimer.o
+ .debug_info    0x00000000000019ab      0x5a2 ./Core/Src/ch32v203xx_it.o
+ .debug_info    0x0000000000001f4d     0x1cee ./Core/Src/ch32v20x_RVMSIS.o
+ .debug_info    0x0000000000003c3b      0xc89 ./Core/Src/main.o
+
+.debug_abbrev   0x0000000000000000      0xe14
+ .debug_abbrev  0x0000000000000000       0x12 ./Core/Startup/startup_ch32v20x_D6.o
+ .debug_abbrev  0x0000000000000012       0xd8 ./Core/Src/ESP8266_lib.o
+ .debug_abbrev  0x00000000000000ea      0x186 ./Core/Src/MQTT.o
+ .debug_abbrev  0x0000000000000270      0x17a ./Core/Src/ModbusRTU.o
+ .debug_abbrev  0x00000000000003ea      0x266 ./Core/Src/ModbusRTU_Master.o
+ .debug_abbrev  0x0000000000000650       0x8b ./Core/Src/SoftwareTimer.o
+ .debug_abbrev  0x00000000000006db      0x148 ./Core/Src/ch32v203xx_it.o
+ .debug_abbrev  0x0000000000000823      0x3a5 ./Core/Src/ch32v20x_RVMSIS.o
+ .debug_abbrev  0x0000000000000bc8      0x24c ./Core/Src/main.o
+
+.debug_aranges  0x0000000000000000      0x398
+ .debug_aranges
+                0x0000000000000000       0x30 ./Core/Startup/startup_ch32v20x_D6.o
+ .debug_aranges
+                0x0000000000000030       0x30 ./Core/Src/ESP8266_lib.o
+ .debug_aranges
+                0x0000000000000060       0x48 ./Core/Src/MQTT.o
+ .debug_aranges
+                0x00000000000000a8       0x68 ./Core/Src/ModbusRTU.o
+ .debug_aranges
+                0x0000000000000110       0x38 ./Core/Src/ModbusRTU_Master.o
+ .debug_aranges
+                0x0000000000000148       0x28 ./Core/Src/SoftwareTimer.o
+ .debug_aranges
+                0x0000000000000170       0x48 ./Core/Src/ch32v203xx_it.o
+ .debug_aranges
+                0x00000000000001b8      0x1b0 ./Core/Src/ch32v20x_RVMSIS.o
+ .debug_aranges
+                0x0000000000000368       0x30 ./Core/Src/main.o
+
+.debug_str      0x0000000000000000     0x1b1c
+ .debug_str     0x0000000000000000       0x5f ./Core/Startup/startup_ch32v20x_D6.o
+ .debug_str     0x000000000000005f      0x27d ./Core/Src/ESP8266_lib.o
+                                        0x2c8 (size before relaxing)
+ .debug_str     0x00000000000002dc      0x1f3 ./Core/Src/MQTT.o
+                                        0x44b (size before relaxing)
+ .debug_str     0x00000000000004cf      0x2ac ./Core/Src/ModbusRTU.o
+                                        0x51f (size before relaxing)
+ .debug_str     0x000000000000077b      0x5e9 ./Core/Src/ModbusRTU_Master.o
+                                        0x8f4 (size before relaxing)
+ .debug_str     0x0000000000000d64       0x45 ./Core/Src/SoftwareTimer.o
+                                        0x1c8 (size before relaxing)
+ .debug_str     0x0000000000000da9      0x1f2 ./Core/Src/ch32v203xx_it.o
+                                        0x4ee (size before relaxing)
+ .debug_str     0x0000000000000f9b      0xb10 ./Core/Src/ch32v20x_RVMSIS.o
+                                        0xfae (size before relaxing)
+ .debug_str     0x0000000000001aab       0x71 ./Core/Src/main.o
+                                        0x95a (size before relaxing)
+
+.debug_ranges   0x0000000000000000      0x310
+ .debug_ranges  0x0000000000000000       0x28 ./Core/Startup/startup_ch32v20x_D6.o
+ .debug_ranges  0x0000000000000028       0x20 ./Core/Src/ESP8266_lib.o
+ .debug_ranges  0x0000000000000048       0x38 ./Core/Src/MQTT.o
+ .debug_ranges  0x0000000000000080       0x58 ./Core/Src/ModbusRTU.o
+ .debug_ranges  0x00000000000000d8       0x28 ./Core/Src/ModbusRTU_Master.o
+ .debug_ranges  0x0000000000000100       0x18 ./Core/Src/SoftwareTimer.o
+ .debug_ranges  0x0000000000000118       0x38 ./Core/Src/ch32v203xx_it.o
+ .debug_ranges  0x0000000000000150      0x1a0 ./Core/Src/ch32v20x_RVMSIS.o
+ .debug_ranges  0x00000000000002f0       0x20 ./Core/Src/main.o
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 ./Core/Src/ESP8266_lib.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 ./Core/Src/MQTT.o
+ .comment       0x0000000000000033       0x34 ./Core/Src/ModbusRTU.o
+ .comment       0x0000000000000033       0x34 ./Core/Src/ModbusRTU_Master.o
+ .comment       0x0000000000000033       0x34 ./Core/Src/SoftwareTimer.o
+ .comment       0x0000000000000033       0x34 ./Core/Src/ch32v203xx_it.o
+ .comment       0x0000000000000033       0x34 ./Core/Src/ch32v20x_RVMSIS.o
+ .comment       0x0000000000000033       0x34 ./Core/Src/main.o
+
+.debug_frame    0x0000000000000000      0xe50
+ .debug_frame   0x0000000000000000       0x7c ./Core/Src/ESP8266_lib.o
+ .debug_frame   0x000000000000007c       0xf0 ./Core/Src/MQTT.o
+ .debug_frame   0x000000000000016c      0x178 ./Core/Src/ModbusRTU.o
+ .debug_frame   0x00000000000002e4       0xa4 ./Core/Src/ModbusRTU_Master.o
+ .debug_frame   0x0000000000000388       0x50 ./Core/Src/SoftwareTimer.o
+ .debug_frame   0x00000000000003d8      0x178 ./Core/Src/ch32v203xx_it.o
+ .debug_frame   0x0000000000000550      0x744 ./Core/Src/ch32v20x_RVMSIS.o
+ .debug_frame   0x0000000000000c94       0x74 ./Core/Src/main.o
+ .debug_frame   0x0000000000000d08       0x54 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(muldf3.o)
+ .debug_frame   0x0000000000000d5c       0x38 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatsidf.o)
+ .debug_frame   0x0000000000000d94       0x38 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsidf.o)
+ .debug_frame   0x0000000000000dcc       0x44 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(floatunsisf.o)
+ .debug_frame   0x0000000000000e10       0x20 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(truncdfsf2.o)
+ .debug_frame   0x0000000000000e30       0x20 c:/mounriver/mounriver_studio/toolchain/risc-v embedded gcc/bin/../lib/gcc/riscv-none-embed/8.2.0/rv32imacxw/ilp32\libgcc.a(_clzsi2.o)

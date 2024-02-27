@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//Core/Inc/ESP8266_lib.h=GBK
+encoding//Core/Inc/MQTT.h=GBK
+encoding//Core/Inc/ch32v203xx_it.h=GBK
+encoding//Core/Inc/ch32v20x_RVMSIS.h=GBK
+encoding//Core/Inc/main.h=GBK
+encoding//Core/Src/ESP8266_lib.c=GBK
+encoding//Core/Src/ModbusRTU_Master.c=UTF-8
+encoding//Core/Src/ch32v203xx_it.c=GBK
+encoding//Core/Src/main.c=UTF-8
+encoding//Core/Src/syscalls.c=GBK
+encoding//Core/Startup/startup_ch32v20x_D6.S=GBK
+encoding//Drivers/inc/ch32v20x_usart.h=GBK
+encoding//Drivers/inc/core_riscv.h=GBK
+encoding/Link.ld=GBK
